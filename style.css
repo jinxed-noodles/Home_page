@@ -30,3 +30,47 @@ element.id.button {
     font-size: 16px;
     cursor: pointer;
 }
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    max-width: 500px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 500px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 500px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 500px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 500px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 500px;
+    margin: 10px auto;
+    text-align: left;
+
+}
