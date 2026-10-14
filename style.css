@@ -20,8 +20,8 @@ div{
     padding: 10px;
 }
 
-element.id.button {
-    background-color: #e7ad99;
+button {
+    background-color: #dbc288;
     boarder: none;
     color; #e7ad99;
     padding: 15px 32px;
